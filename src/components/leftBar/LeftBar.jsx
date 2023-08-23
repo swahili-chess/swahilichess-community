@@ -21,6 +21,9 @@ const LeftBar = () => {
 
   return (
     <div className="leftBar">
+      Leftbar
+    </div>
+    /*<div className="leftBar">
       <div className="container">
         <div className="menu">
           <div className="user">
@@ -92,7 +95,7 @@ const LeftBar = () => {
           </div>
         </div>
       </div>
-    </div>
+    </div>*/
   );
 };
 

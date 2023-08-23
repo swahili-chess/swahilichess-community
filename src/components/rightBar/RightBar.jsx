@@ -3,6 +3,9 @@ import "./rightBar.scss";
 const RightBar = () => {
   return (
     <div className="rightBar">
+      Rightbar
+    </div>
+    /*<div className="rightBar">
       <div className="container">
         <div className="item">
           <span>Suggestions For You</span>
@@ -198,7 +201,7 @@ const RightBar = () => {
           </div>
         </div>
       </div>
-    </div>
+    </div>*/
   );
 };
 
