@@ -5,6 +5,7 @@ const RightBar = () => {
     <div className="rightBar">
       Rightbar
     </div>
+    
     /*<div className="rightBar">
       <div className="container">
         <div className="item">
