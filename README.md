@@ -2,4 +2,4 @@
 
 Social media for Top Tanzania chess players
 
-***~~~UNDER CONSTRUCTION***
+***>>>UNDER CONSTRUCTION***
