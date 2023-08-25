@@ -43,7 +43,7 @@ const Navbar = () => {
             src={currentUser.profilePic}
             alt=""
           />
-          <span>K-Dash{/*currentUser.name*/}</span>
+          <span>{currentUser.name}</span>
         </div>
       </div>
     </div>

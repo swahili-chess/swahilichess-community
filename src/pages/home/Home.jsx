@@ -8,11 +8,13 @@ const Home = () => {
     <div className="home">
       Home
     </div>
-    /*<div className="home">
+    /*
+    <div className="home">
       <Stories />
       <Share />
       <Posts />
-    </div>*/
+    </div>
+    */
   )
 }
 
