@@ -1,4 +1,4 @@
-### Chesswahili Community
+### SwahiliChess Community
 
 Social media for Top Tanzania chess players
 
